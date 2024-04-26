@@ -1,5 +1,15 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> f7ba2c6f6b4781f93d77fc40aa35ed3ec67e67c4
 Hello World,good evening
 =======
 Hello Everyone,This is Himanshu Chauhan
 >>>>>>> 6e13fcfd7da563d2134dd2ce1d62c02184a519db
+<<<<<<< HEAD
+=======
+=======
+Hello Everyone,
+>>>>>>> 204650c (7th)
+>>>>>>> f7ba2c6f6b4781f93d77fc40aa35ed3ec67e67c4
