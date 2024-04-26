@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hello World,good evening
+=======
+Hello Everyone,This is Himanshu Chauhan
+>>>>>>> 6e13fcfd7da563d2134dd2ce1d62c02184a519db
